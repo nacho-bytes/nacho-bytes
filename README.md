@@ -1,9 +1,23 @@
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ibj2t677cmms5d5jxlndoc18zrg1n6bm8j3b9702&rid=giphy.gif&ct=g" width="100"/>
+  <br /><br />
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/i%C3%B1aki-d-a16575142">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+</div>
+
 <h1 align="center">Hello! :wave:</h1>
 
-<h3 align="center">Overview</h3>
-<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CheesyNacho10&show_icons=true&locale=en" alt="Nacho" /></p>
+<h2>My name is Nacho and I am a developer</h2>
 
-<h3 align="center">Languages</h3>
+*    🌍 Valencia, Spain
+*    ✉️ nachodl.queso@gmail.com
+*    🧠 Learning about AI and cross-platform desktop development
+*    💡 Currently working at [Equipson](https://www.equipson.es/) as intern developer
+
+<h3 align="center">Skills</h3>
 <p align="center"> 
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -15,6 +29,12 @@
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="40" height="40"/> </a> 
 
+<a href="https://cmake.org/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1024px-Cmake.svg.png" alt="cmake" width="40" height="40"/> </a>
+  
+<a href="https://zeromq.org/" target="_blank" rel="noreferrer"> 
+<img src="https://img.stackshare.io/service/1064/zeromq.png" alt="zmq" width="40" height="40"/> </a>
+  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
@@ -27,7 +47,9 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
-<h3 align="center">Libraries</h3>
-<p align="center"> 
-
 </p>
+
+<h3 align="center">Overview</h3>
+<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CheesyNacho10&show_icons=true&locale=en" alt="Nacho" /></p>
+
+
