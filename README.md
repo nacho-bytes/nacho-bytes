@@ -35,6 +35,9 @@
 <a href="https://zeromq.org/" target="_blank" rel="noreferrer"> 
 <img src="https://img.stackshare.io/service/1064/zeromq.png" alt="zmq" width="40" height="40"/> </a>
   
+<a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/WxWidgets.svg/1200px-WxWidgets.svg.png" alt="wxwidgets" width="50" height="40"/> </a>
+  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
