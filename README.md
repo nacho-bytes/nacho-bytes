@@ -15,13 +15,16 @@
 *    🌍 Valencia, Spain
 *    ✉️ nachodl.queso@gmail.com
 *    🧠 Learning about AI and cross-platform desktop development
-*    💡 Currently working at [Equipson](https://www.equipson.es/) as intern developer
+*    💡 Currently working at [Equipson](https://www.equipson.es/) as software developer
 
 <h3 align="center">Skills</h3>
 <p align="center"> 
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+<img src="https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png" alt="pytorch" width="40" height="40"/> </a>
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -33,7 +36,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1024px-Cmake.svg.png" alt="cmake" width="40" height="40"/> </a>
   
 <a href="https://zeromq.org/" target="_blank" rel="noreferrer"> 
-<img src="https://img.stackshare.io/service/1064/zeromq.png" alt="zmq" width="40" height="40"/> </a>
+<img src="https://static-00.iconduck.com/assets.00/zeromq-icon-512x512-0zipeqka.png" alt="zmq" width="40" height="40"/> </a>
   
 <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/WxWidgets.svg/1200px-WxWidgets.svg.png" alt="wxwidgets" width="50" height="40"/> </a>
@@ -52,6 +55,9 @@
   
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="https://th.bing.com/th/id/R.f56174382f698556d4d63de4d8c70e48?rik=7TNZh0Qu7rB3qg&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fDocker_logo.png&ehk=3bIEk6kEfOfkM%2fXL3vD30cFCffWkz%2fhymoTC2pq9GVU%3d&risl=&pid=ImgRaw&r=0" alt="docker" width="40" height="40"/> </a> 
+
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="flutter" width="40" height="40"/> </a> 
  
 </p>
 
