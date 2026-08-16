@@ -8,8 +8,9 @@ gRPC/Protobuf communication and Flutter applications. Currently technical lead o
 a scheduled-command device for professional audio installations, shown at ISE 2026.
 
 **Working with**
-`Rust` · `Flutter` / `Dart` · `Embedded Linux` (Yocto, RAUC A/B atomic updates) ·
-`gRPC` / `Protobuf` · `C++` · `Python` · `Node.js` · `React` · `Docker`
+`Rust` (Tokio, tonic, Prost) · `Flutter` / `Dart` ·
+`Embedded Linux` (Yocto, RAUC A/B atomic updates) ·
+`gRPC` / `gRPC-Web` / `Protobuf` · `C++` · `Python` · `Node.js` · `React` · `Docker`
 
 **Background**
 MSc in Artificial Intelligence, Pattern Recognition and Digital Imaging (UPV),
